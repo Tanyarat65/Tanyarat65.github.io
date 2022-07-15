@@ -107,7 +107,7 @@
 #home {
     margin-bottom: 6rem;
     background: url(../img/bg-header.png) left top no-repeat;
-    
+
 }
 
 .typed-cursor {
@@ -267,11 +267,11 @@
     border-bottom: 2px solid transparent;
 }
 
-#portfolio-flters li:hover,
+/* #portfolio-flters li:hover,
 #portfolio-flters li.active {
     color: var(--primary);
     border-color: var(--primary);
-}
+} */
 
 .portfolio-img {
     position: relative;
