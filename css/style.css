@@ -276,6 +276,10 @@
 .portfolio-img {
     position: relative;
 }
+.portfolio-img img {
+    height: 355px;
+    width: 100%;
+}
 
 .portfolio-btn {
     position: absolute;
@@ -292,6 +296,7 @@
     opacity: 0;
     transition: .5s;
 }
+
 
 .portfolio-item:hover .portfolio-btn {
     opacity: 1;
